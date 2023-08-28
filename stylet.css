@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100%;
+    background-image:linear-gradient(rgb(0,250,154), rgb(0,191,255))
+}
+
+button {
+    cursor:default;
+    border: 1px solid #36454F;
+    background-color: transparent;
+    color:#36454F;
+    height: 100px;
+    width: 200px;
+    font-size: 2.5em;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+
+}
